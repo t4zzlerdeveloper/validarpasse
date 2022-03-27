@@ -34,7 +34,7 @@ Inicialmente recorremos à API da SheerID e criamos a nossa própria interface, 
 Aqui o utilizador pode selecionar as 2 áreas metropolitanas disponíveis em Portugal.
 
 ### 3 - Comunicação com empresas de transportes
-*Infelizmente, esta fase do programa não foi implementada, visto que requer negociação com as empresas responsáveis pelas Redes de Transportes Metropolitanos de Portugal.
+Infelizmente, esta fase do programa não foi implementada, visto que requer negociação com as empresas responsáveis pelas Redes de Transportes Metropolitanos de Portugal.
 
 # Todo:
 - Criar pedidos com a API da SheerID de forma a garantir sempre autentição por parte do utilizador
