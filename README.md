@@ -1,7 +1,7 @@
 
 <img src="https://validarpasse.pt/static/media/logo-vp-back-transparent.2116894b6156fa326fa0.png" alt="ValidarPasse.pt" style="width:300px;"/>
 
-# Bem-vindo ao Projeto Validar Passe
+# Bem-vindo ao Projeto "Validar Passe"
 
 A Ideia...
 
@@ -43,4 +43,8 @@ Aqui o utilizador pode selecionar as 2 áreas metropolitanas disponíveis em Por
 
 - Adicionar opção de carregamento de passes
 
-#
+## Outros
+
+#### O nosso interface de validação do estudante inicial, no qual gostaríamos de investir mais para proceder à sua implementação, sem erros.
+
+<img src="https://validarpasse.pt/images/old-validarpasse.PNG" alt="Mapa de áreas metropolitanas" style="width:300px;"/>
