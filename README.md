@@ -45,6 +45,6 @@ Infelizmente, esta fase do programa não foi implementada, visto que requer nego
 
 ## Outros
 
-#### O nosso interface de validação do estudante inicial, no qual gostaríamos de investir mais para proceder à sua implementação, sem erros.
+#### Aqui está o nosso interface de validação de estudante inicial, no qual gostaríamos de investir mais para proceder à sua implementação, sem qualquer erro.
 
 <img src="https://validarpasse.pt/images/old-validarpasse.PNG" alt="Mapa de áreas metropolitanas" style="width:300px;"/>
