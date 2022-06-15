@@ -1,5 +1,5 @@
 
-<img src="https://validarpasse.pt/static/media/logo-vp-back-transparent.2116894b6156fa326fa0.png" alt="ValidarPasse.pt" style="width:300px;"/>
+<img src="https://i.imgur.com/IhDZdEP.png" alt="ValidarPasse.pt" style="width:300px;"/>
 
 # Bem-vindo ao Projeto "Validar Passe"
 
@@ -7,7 +7,7 @@ A Ideia...
 
 > #### "Este projeto visa criar uma ligação entre o SheerID e as empresas responsáveis pelos Transportes em Portugal, em apenas 2 passos, com o propósito de oferecer a (re)validação de passes(sub-23) a todos os estudantes."
 
-**[Abrir site de Demo](https://validarpasse.pt)**
+### [Infelizmente o site de demo já não está disponível!!!](https://github.com/t4zzlerdeveloper/validarpasse)
 
 # Funcionamento
 
@@ -24,12 +24,12 @@ G --> E
 C{Passe Validado}
 ```
 ### 1 - Validaçao SheerID
-<img src="https://validarpasse.pt/images/sheerid-validarpasse.PNG" alt="Validação SheerID" style="width:300px;"/>
+<img src="https://i.imgur.com/ogkbkZ3.png" alt="Validação SheerID" style="width:300px;"/>
 
 Inicialmente recorremos à API da SheerID e criamos a nossa própria interface, mas inesperadamente obtemos alguns erros não documentados pela empresa e acabámos por integrar no nosso site o "embed" deles com um Custom CSS programado por nós (visível no fim da documentação).
 
 ### 2 - Seleção da área metropolitana
-<img src="https://validarpasse.pt/images/mapa-validarpasse.PNG" alt="Mapa de áreas metropolitanas" style="width:300px;"/>
+<img src="https://i.imgur.com/l8LV056.png" alt="Mapa de áreas metropolitanas" style="width:300px;"/>
 
 Aqui o utilizador pode selecionar as 2 áreas metropolitanas disponíveis em Portugal.
 
@@ -47,7 +47,7 @@ Infelizmente, esta fase do programa não foi implementada, visto que requer nego
 
 #### Aqui está o nosso interface de validação de estudante inicial, no qual gostaríamos de investir mais para proceder à sua implementação, sem qualquer erro.
 
-<img src="https://validarpasse.pt/images/old-validarpasse.PNG" alt="Mapa de áreas metropolitanas" style="width:300px;"/>
+<img src="https://i.imgur.com/uGvoKtU.png" alt="Mapa de áreas metropolitanas" style="width:300px;"/>
 
 
 Nota: Adicionamos, tanto o código fonte com a build
