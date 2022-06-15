@@ -8,6 +8,7 @@ A Ideia...
 > #### "Este projeto visa criar uma ligação entre o SheerID e as empresas responsáveis pelos Transportes em Portugal, em apenas 2 passos, com o propósito de oferecer a (re)validação de passes(sub-23) a todos os estudantes."
 
 ### [Abrir Site de Demo](https://t4zzlerdeveloper.github.io/validarpasse/)
+##### ( validarpasse.pt indisponível devido aos custos associados )
 
 # Funcionamento
 
@@ -50,4 +51,4 @@ Infelizmente, esta fase do programa não foi implementada, visto que requer nego
 <img src="https://i.imgur.com/uGvoKtU.png" alt="Mapa de áreas metropolitanas" style="width:300px;"/>
 
 
-Nota: Adicionamos, tanto o código fonte com a build
+Nota: Adicionamos, tanto o código fonte como a build
