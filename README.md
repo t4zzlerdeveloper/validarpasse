@@ -7,7 +7,7 @@ A Ideia...
 
 > #### "Este projeto visa criar uma ligação entre o SheerID e as empresas responsáveis pelos Transportes em Portugal, em apenas 2 passos, com o propósito de oferecer a (re)validação de passes(sub-23) a todos os estudantes."
 
-### [Infelizmente o site de demo já não está disponível!!!](https://github.com/t4zzlerdeveloper/validarpasse)
+### [Abrir Site de Demo](https://t4zzlerdeveloper.github.io/validarpasse/)
 
 # Funcionamento
 
