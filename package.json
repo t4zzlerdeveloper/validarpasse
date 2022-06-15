@@ -2,7 +2,7 @@
   "name": "validarpasse",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://t4zzlerdeveloper.github.io/validarpasse",
+  "homepage": "https://t4zzlerdeveloper.github.io/validarpasse/build",
   "dependencies": {
     "@hookstate/core": "^3.0.13",
     "@testing-library/jest-dom": "^5.16.3",
